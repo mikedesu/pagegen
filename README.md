@@ -1,5 +1,7 @@
 # pagegen
 
+You can see an example output of this program located at: [https://www.evildojo.com/pagegen/index.html](https://www.evildojo.com/pagegen/index.html)
+
 A static page generator built on a C-file, some bash scripts, and markdown.
 
 This page is under development, as is the rest of this project.
