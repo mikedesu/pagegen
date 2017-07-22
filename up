@@ -1,0 +1,10 @@
+#!/bin/bash
+
+FLAGS="-av --progress"
+FILES="test/*.html"
+USER="user"
+SERVER="0.1.2.3"
+LOCATION="/path/yourwebsite.com/."
+
+rsync $FLAGS $FILES $USER@$SERVER:$LOCATION
+

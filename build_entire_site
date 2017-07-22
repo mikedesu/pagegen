@@ -1,0 +1,4 @@
+#!/bin/bash
+
+for i in `cat pages.txt`; do ./b $i; done
+

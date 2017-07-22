@@ -1,0 +1,36 @@
+<style>
+body{font-family:helvetica;font-size:14px;color:#000;background-color:#fff;margin:auto;width:86%;}
+a:link{color:#ff00ff;}
+a:visited{color:#aa00aa;}
+a:hover{color:#cc00cc;}
+a:active{color:#cc00cc;}
+p{color:#000;}
+pre{background-color:#333;border:2px solid #999;display:inline-block;line-height:1.0em;margin:12px 0;max-width:95%;overflow-x:auto;padding:.25em 1em;width:auto;}
+pre code{border:0;}
+code{color:#fff;display:inline-block;background-color:#333;border:1px solid #999;width:auto;padding:0px 2px 0px 2px;}
+h1,h2,h3{color:#999;}
+h1{font-size:32px;}
+h2{font-size:24px;}
+h3{font-size:20px;}
+blockquote{display:inline-block;background-color:#333;border:1px solid #FFF;width:auto;font-style:normal;padding:0px 8px 0px 8px;}
+#title1{border:0;text-align:center;}
+#title2{border:0;text-align:center;font-size:32px;color:#666;}
+#menu-nav{border:0;text-align:center;color:#666;}
+#body1{border:0;text-align:left;word-wrap:break-word;}
+#footer{font-size:12px;margin-bottom:12px;}
+#footer td{font-size:12px;margin-bottom:12px;}
+</style>
+</head>
+<body>
+<div id="title1">welcome to</div>
+<div id="title2">pagegen</div>
+<br/>
+<div id="menu-nav">
+<!-- FEEL FREE TO DELETE -->
+<a href="index.html">home</a> | <a href="README.html">README</a> | <a href="https://www.twitter.com/evildojo">twitter</a> | <a href="https://www.patreon.com/darkmage">patreon</a> | <a href="https://www.linkedin.com/in/darkmage">linkedin</a> | <a href="https://www.github.com/mikedesu">github</a> | <a href="https://keybase.io/darkmage">keybase</a><br/>
+<!-- FEEL FREE TO DELETE -->
+</div>
+<div>
+</div>
+<hr/>
+<div id="body1">
