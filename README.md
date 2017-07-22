@@ -9,12 +9,13 @@ If you have any questions, contact me on twitter [\@evildojo](https://www.twitte
 ### Before Use:
 
 1. Run `make`.
-2. Create a file to hold the following:
+2. Edit `style_gajs_header.txt` to hold the following:
     - Your style.css
     - Your Google Analytics (or whatever)
     - Your site header (which will show up on every page generated)
-3. Create a file that contains, one per line, each keyword you would like to appear in the meta keywords tag.
-4. Configure the file `b`.
+3. Edit `footer.html` to hold your site footer.
+4. Create a file that contains, one per line, each keyword you would like to appear in the meta keywords tag.
+5. Configure the file `b`.
 
 ```
 PAGESDIR="./pages"
@@ -26,9 +27,9 @@ SITE="evildojo v0.1"
 STYLEGAJSHEADER="style_gajs_header.txt"
 KEYWORDS="keywords.txt"
 ```
-5. List the pages that you'd like to build, one per line, excluding output extension (so, just the base filename), in the file `pages.txt`. 
-6. Make sure that you have the program [pandoc](https://pandoc.org/) installed on your system.
-7. Configure the file `up`
+6. List the pages that you'd like to build, one per line, excluding output extension (so, just the base filename), in the file `pages.txt`. 
+7. Make sure that you have the program [pandoc](https://pandoc.org/) installed on your system.
+8. Configure the file `up`
 
 ```
 FLAGS="-av --progress"
