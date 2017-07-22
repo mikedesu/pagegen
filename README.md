@@ -4,6 +4,8 @@ A static page generator built on a C-file, some bash scripts, and markdown.
 
 This page is under development, as is the rest of this project.
 
+If you have any questions, contact me on twitter [\@evildojo](https://www.twitter.com/evildojo).
+
 ### Before Use:
 
 1. Run `make`.
