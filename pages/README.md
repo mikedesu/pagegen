@@ -1,5 +1,9 @@
 # pagegen
 
+A static page generator built on a C-file, some bash scripts, and markdown.
+
+This page is under development, as is the rest of this project.
+
 ### Before Use:
 
 1. Run `make`.
