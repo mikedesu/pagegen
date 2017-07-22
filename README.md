@@ -29,7 +29,8 @@ KEYWORDS="keywords.txt"
 ```
 6. List the pages that you'd like to build, one per line, excluding output extension (so, just the base filename), in the file `pages.txt`. 
 7. Make sure that you have the program [pandoc](https://pandoc.org/) installed on your system.
-8. Configure the file `up`
+8. Make sure that you have the program [rsync](https://rsync.samba.org/) installed on your system.
+9. Configure the file `up`.
 
 ```
 FLAGS="-av --progress"
@@ -38,6 +39,7 @@ USER="user"
 SERVER="0.1.2.3"
 LOCATION="/home/user/www/."
 ```
+10. You're good to go!
 
 -----
 
